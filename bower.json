@@ -1,12 +1,9 @@
 {
   "name": "ztreev3",
+  "main": "js/jquery.ztree.all-3.5.min.js",
   "description": "zTree is based jquery, is very powerful",
   "version": "3.5.18",
   "dependencies": {
     "jquery": "*"
-  },
-  "main": [
-    "js/jquery.ztree.all-3.5.min.js",
-    "css/awesomeStyle/awesome.css"
-  ]
+  }
 }
