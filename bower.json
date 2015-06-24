@@ -7,6 +7,6 @@
   },
   "main": [
     "js/jquery.ztree.all-3.5.min.js",
-    "css/awesomeStyle/awesome.css"
+    "css/metroStyle/metroStyle.css"
   ]
 }
