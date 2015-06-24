@@ -4,7 +4,7 @@
   "description": "zTree is based jquery, is very powerful.",
   "main": [
     "js/jquery.ztree.all-3.5.min.js",
-    "css/awesomeStyle/awesome.css"
+    "css/metroStyle/metroStyle.css"
   ],
   "dependencies": {
     "jquery": ">= 1.9.1"
